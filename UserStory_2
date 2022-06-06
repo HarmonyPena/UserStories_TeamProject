@@ -1,0 +1,37 @@
+Harmony Pena – User Story 2
+
+Actors:
+•    Student: an individual that is a part of a group/team
+•    Professor: the individual that provides all the assignment material & tasks
+
+Name: Project Completion Status Check
+Created by: Harmony Jackson (Pena)
+
+Actors involved:
+•	Triggered actor: Student
+•	Secondary actor: Professor
+
+Brief Description: The complete status of a project can be viewed in a separate area of the calendar/app
+Triggering Event(s): As students mark assignments/tasks complete and the complete status of the project is updated
+
+Priority: Medium
+Preconditions: The Professor has provided all project assignments/tasks to the students
+Assumptions: All project assignments/tasks have been uploaded to the calendar
+
+The flow of events:
+1.	Project assignments are uploaded by the Professor 
+2.	The task manager assigns tasks to team members
+3.	Completed assignments are marked done
+4.	The complete status of the project is updated 
+5.	Students click on “Project Name > Complete Status Check”
+
+Alternative/Abnormal flow of events: 
+1.	If the professor has not provided all assignments/tasks, the status of the project is invalid
+
+Postconditions:
+-	Students can view a live up-to-date status of the group’s project
+---------------
+User Stories:
+
+1.	As a student, I want to be able to view an up-to-date status of my group’s project, so that I can know where the project stands.
+2.	As a Professor, I want to be able to keep up with each team’s project progress, to ensure everyone is on the same page and understands the assignment/tasks.
