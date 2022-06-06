@@ -1,0 +1,38 @@
+Harmony Pena – User Story 2
+
+
+Actors:
+• Student: An individual that is a part of a team/group project
+
+Name: Team Meetings Integration
+Created by: Harmony Jackson (Pena)
+
+Actors involved: 
+•	Triggered actor: Student
+•	Secondary actor: N/a
+
+Brief Description: A student can click a link and join a live video/audio conference with their team (using any outside conferencing platform)
+
+Triggering Event(s): Student click on the conference link
+Priority: Medium
+
+Preconditions: A specific date and time is agreed on by all students/team members
+Assumptions: A conference link is created by a team member and added to the team’s calendar
+
+The flow of events:
+1.	A meeting date & time is created by a student/group member
+2.	A student attaches/adds a direct link for the live meeting
+3.	A student clicks on the link 
+4.	The student is asked if it’s okay to leave the app platform to join a meeting on a different platform
+5.	The student accepts to exit the app to join the meeting
+6.	The student joins the team conference
+
+Alternative/Abnormal flow of events: 
+1.	The student does not accept leaving the calendar app to join the meeting, the case ends
+
+Postconditions: The student is directed to the team conference call
+Non-functional Requirements:
+-	Students must click on the link and is not does automatically join
+---------------
+User Stories:
+1.	As a student, I want to be able to speak to my group in a live conferencing environment, so that we can discuss tasks and assignments to complete our project.
